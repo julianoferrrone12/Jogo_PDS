@@ -17,7 +17,7 @@ Se você estiver usando um terminal bash, siga estas etapas:
 4. Após a compilação ser concluída com sucesso, um arquivo executável será gerado.
 5. Execute o arquivo executável gerado para rodar o programa.
 
-6. ### Usando um Terminal Shell:
+### Usando um Terminal Shell:
 
 Se você estiver usando um terminal shell, siga estas etapas:
 
